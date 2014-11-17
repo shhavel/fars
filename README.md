@@ -1,4 +1,4 @@
-![fars](images/fars.png)
+![fars](https://raw.githubusercontent.com/shhavel/fars/master/images/fars.png)
 
 # Fast ActiveRecord Serializer
 
